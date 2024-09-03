@@ -1,9 +1,13 @@
 ﻿using Sorteer;      // de namenspace van de klasses
 
-Student student1 = new Student() { Voornaam = "Klaas", Achternaam = "Vaak" };
-Student student2 = new Student("Truusje", "Toeter");
+int i = 0;  
+
+Student student1;
+student1 = new Student("Truusje", "Toeter");
 
 Personeel personeel1 = new Personeel("Sjaak", "Snuiter");
+
+Student student2 = new Student() { Voornaam = "Klaas", Achternaam = "Vaak" };
 Personeel personeel2 = new Personeel() { Voornaam = "Henkie", Achternaam = "Snuiter", Personeelsnummer = 5 };
 
 List<Persoon> personen =  new List<Persoon>() { student1, student2, personeel1, personeel2 };
