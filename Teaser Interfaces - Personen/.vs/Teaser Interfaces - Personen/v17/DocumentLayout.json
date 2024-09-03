@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personeel.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Personeel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Personeel.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Personeel.cs",
+              "RelativeToolTip": "ConsoleApp1\\Personeel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:33:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:23:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Persoon.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Persoon.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Persoon.cs",
+              "RelativeToolTip": "ConsoleApp1\\Persoon.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:58:37.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:57:05.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
