@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\teaser interfaces - personen\\consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D134276-A621-482E-9CA8-AFF1783B073B}|ConsoleApp1\\Sorteer.csproj|solutionrelative:consoleapp1\\personeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Personeel.cs",
               "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Personeel.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Personeel.cs",
@@ -42,11 +42,12 @@
               "RelativeToolTip": "ConsoleApp1\\Personeel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:33:46.801Z"
+              "WhenOpened": "2024-09-03T08:33:46.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
@@ -54,7 +55,8 @@
               "RelativeToolTip": "ConsoleApp1\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T08:23:36.844Z"
+              "WhenOpened": "2024-09-03T08:23:36.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,9 +66,10 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Persoon.cs",
               "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Persoon.cs",
               "RelativeToolTip": "ConsoleApp1\\Persoon.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T07:58:37.154Z"
+              "WhenOpened": "2024-09-03T07:58:37.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,7 +79,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\Teaser Interfaces - Personen\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T07:57:05.529Z",
               "EditorCaption": ""
