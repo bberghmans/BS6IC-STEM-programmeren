@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\H10 Geheugenmanagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\h10 geheugenmanagement\\h10 geheugenmanagement\\mens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|solutionrelative:h10 geheugenmanagement\\mens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\h10 geheugenmanagement\\h10 geheugenmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|solutionrelative:h10 geheugenmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\h10 geheugenmanagement\\h10 geheugenmanagement\\mens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7747441B-3F3A-40BF-B957-79FB58FDE4BF}|H10 Geheugenmanagement\\H10 Geheugenmanagement.csproj|solutionrelative:h10 geheugenmanagement\\mens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +26,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Mens.cs",
               "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\H10 Geheugenmanagement\\H10 Geheugenmanagement\\Mens.cs",
               "RelativeDocumentMoniker": "H10 Geheugenmanagement\\Mens.cs",
               "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\H10 Geheugenmanagement\\H10 Geheugenmanagement\\Mens.cs",
               "RelativeToolTip": "H10 Geheugenmanagement\\Mens.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAnwDsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T08:52:02.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\H10 Geheugenmanagement\\H10 Geheugenmanagement\\Program.cs",
               "RelativeDocumentMoniker": "H10 Geheugenmanagement\\Program.cs",

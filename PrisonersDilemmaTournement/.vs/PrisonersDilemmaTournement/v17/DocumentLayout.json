@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\prisonersdilemmatournement\\prisonersdilemmatournement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|solutionrelative:prisonersdilemmatournement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\prisonersdilemmatournement\\prisonersdilemmatournement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|solutionrelative:prisonersdilemmatournement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E045DB61-9282-4D8B-9250-3383D93B68E8}|Strategy\\Strategy.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\prisonersdilemmatournement\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E045DB61-9282-4D8B-9250-3383D93B68E8}|Strategy\\Strategy.csproj|solutionrelative:strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4E7DB4-67C4-420A-839F-9BC34626C51A}|StrategyBart\\StrategyBart.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\prisonersdilemmatournement\\strategybart\\strategybart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4E7DB4-67C4-420A-839F-9BC34626C51A}|StrategyBart\\StrategyBart.csproj|solutionrelative:strategybart\\strategybart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\PrisonersDilemmaTournement\\Game.cs",
+              "RelativeDocumentMoniker": "PrisonersDilemmaTournement\\Game.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\PrisonersDilemmaTournement\\Game.cs",
+              "RelativeToolTip": "PrisonersDilemmaTournement\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:13:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.cs",
+              "RelativeDocumentMoniker": "Strategy\\Strategy.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.cs",
+              "RelativeToolTip": "Strategy\\Strategy.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:43:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrategyBart.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\StrategyBart\\StrategyBart.cs",
+              "RelativeDocumentMoniker": "StrategyBart\\StrategyBart.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\StrategyBart\\StrategyBart.cs",
+              "RelativeToolTip": "StrategyBart\\StrategyBart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:22:25.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\PrisonersDilemmaTournement\\Program.cs",
+              "RelativeDocumentMoniker": "PrisonersDilemmaTournement\\Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\PrisonersDilemmaTournement\\Program.cs",
+              "RelativeToolTip": "PrisonersDilemmaTournement\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:20:28.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

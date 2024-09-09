@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bart\\source\\repos\\DataTypes\\",
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C89788CC-8866-4342-B0D4-B5C8CC95E6FE}|DataTypes\\DataTypes.csproj|c:\\users\\bart\\source\\repos\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C89788CC-8866-4342-B0D4-B5C8CC95E6FE}|DataTypes\\DataTypes.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C89788CC-8866-4342-B0D4-B5C8CC95E6FE}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bart\\source\\repos\\DataTypes\\DataTypes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\DataTypes\\Program.cs",
               "RelativeDocumentMoniker": "DataTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\Bart\\source\\repos\\DataTypes\\DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\DataTypes\\Program.cs",
               "RelativeToolTip": "DataTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T12:08:28.129Z",
               "EditorCaption": ""

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bart\\source\\repos\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\DataTypes\\DataTypes.csproj",
       "projectName": "DataTypes",
-      "projectPath": "C:\\Users\\Bart\\source\\repos\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\DataTypes\\DataTypes.csproj",
       "packagesPath": "C:\\Users\\Bart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bart\\source\\repos\\DataTypes\\DataTypes\\obj\\",
+      "outputPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\DataTypes\\DataTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

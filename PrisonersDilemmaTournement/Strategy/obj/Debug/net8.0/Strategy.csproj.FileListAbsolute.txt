@@ -1,0 +1,12 @@
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\bin\Debug\net8.0\Strategy.deps.json
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\bin\Debug\net8.0\Strategy.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\bin\Debug\net8.0\Strategy.pdb
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\Strategy.pdb
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\Strategy\obj\Debug\net8.0\ref\Strategy.dll
