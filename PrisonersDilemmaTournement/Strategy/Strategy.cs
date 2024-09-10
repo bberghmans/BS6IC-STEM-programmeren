@@ -26,6 +26,7 @@ namespace PrisonersDilemma
 
         public abstract Move PlayNext();
 
+        // Sla het resultaat van de vorige spelronde op
         public void RegisterMove(Move othersMove, int coinWon, int otherCoinsWon)
         {
             MyCoins += coinWon;
@@ -33,6 +34,7 @@ namespace PrisonersDilemma
             OtherPreviousMove = othersMove;
         }
 
+        // Reset alle tellers
         public void Reset()
         { 
             MyCoins = 0;

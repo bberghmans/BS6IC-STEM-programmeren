@@ -1,0 +1,16 @@
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\bin\Release\net8.0\StrategyBart.deps.json
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\bin\Release\net8.0\StrategyBart.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\bin\Release\net8.0\StrategyBart.pdb
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\bin\Release\net8.0\Strategy.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\bin\Release\net8.0\Strategy.pdb
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.csproj.AssemblyReference.cache
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.AssemblyInfoInputs.cache
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.AssemblyInfo.cs
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.csproj.CoreCompileInputs.cache
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.sourcelink.json
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\Strategy.D4C84416.Up2Date
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\refint\StrategyBart.dll
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\StrategyBart.pdb
+C:\Users\Bart\Documents\GitHub\BS6IC-STEM-programmeren\PrisonersDilemmaTournement\StrategyBart\obj\Release\net8.0\ref\StrategyBart.dll

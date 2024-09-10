@@ -1,38 +1,36 @@
 ﻿using PrisonersDilemma;
-using PrisonersDilemmaTournement;
 
+// We laten elke strategie N-keer tegen elkaar spelen
 const int N = 100;
-
-Strategy bart0 = new StrategyBart0(N);
-Strategy bart1 = new StrategyBart1(N);
-Strategy bart2 = new StrategyBart2(N);
-Strategy bart3 = new StrategyBart3(N);
-
-List<Strategy> StrategyList = new List<Strategy> { bart0, bart1, bart2, bart3 };
+List<Strategy> StrategyList = Bart.Strategies(N);
 int listCount = StrategyList.Count;
 
+// Dubbele lus om elke combinatie aan tegenstanders te bepalen
 for (int i = 0; i < listCount; i++)
 {
     for (int j = i + 1; j < listCount; j++)
     {
-        Strategy strategy1 = StrategyList[i];
-        Strategy strategy2 = StrategyList[j];
+        // kopieer een referentie naar de twee strategieen
+        Strategy strategyA = StrategyList[i];
+        Strategy strategyB = StrategyList[j];
 
         for (int k = 0; k < N; k++)
         {
-            Strategy.Move move1 = strategy1.PlayNext();
-            Strategy.Move move2 = strategy2.PlayNext();
+            // vraag aan elke strategie wat de volgende zet gaat zijn
+            Strategy.Move moveA = strategyA.PlayNext();
+            Strategy.Move moveB = strategyB.PlayNext();
 
-            int coin1 = 0;
-            int coin2 = 0;
+            // laat Game.Play de outkomst bepalen en sla deze op in coinA en coinB
+            int coinA = 0;
+            int coinB = 0;
+            Game.Play(moveA, moveB, out coinA, out coinB);
 
-            Game.Play(move1, move2, out coin1, out coin2);
-
-            strategy1.RegisterMove(move2, coin1, coin2);
-            strategy2.RegisterMove(move1, coin2, coin1);
+            // laat aan de strategieen weten wat de andere gespeeld heeft, en wat de uitkomsten waren
+            strategyA.RegisterMove(moveB, coinA, coinB);
+            strategyB.RegisterMove(moveA, coinB, coinA);
         }
-        Console.WriteLine($"Game Results -> {strategy1.Name}:{strategy1.MyCoins} - {strategy2.Name}:{strategy2.MyCoins}");
-        strategy1.Reset();
-        strategy2.Reset();
+        Console.WriteLine($"Game Results -> {strategyA.Name}:{strategyA.MyCoins} - {strategyB.Name}:{strategyB.MyCoins}");
+        strategyA.Reset();
+        strategyB.Reset();
     }
 }

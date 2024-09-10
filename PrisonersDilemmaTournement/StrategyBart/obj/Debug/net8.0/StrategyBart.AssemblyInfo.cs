@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StrategyBart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bd45b92cf30c5133cd8050cf88fa15f22f5e037")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+900945cc488041f65a7ebaa4eb24ebcb5f9b16ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("StrategyBart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StrategyBart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
