@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrisonersDilemmaTournement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82fcf117610aae65c562098eb8dd91cd48f9e03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e474b21052c725441e0733b2b5d75df4391b5ccc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrisonersDilemmaTournement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrisonersDilemmaTournement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

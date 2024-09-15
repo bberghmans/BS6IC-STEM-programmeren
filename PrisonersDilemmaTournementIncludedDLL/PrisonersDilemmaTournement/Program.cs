@@ -1,14 +1,16 @@
 ﻿using PrisonersDilemma;
 
 // We laten elke strategie N-keer tegen elkaar spelen
-const int N = 1000;
+const int N = 100;
 List<Strategy> StrategyList = Bart.Strategies(N);
 StrategyList.AddRange(Bartu.Strategies(N));
 StrategyList.AddRange(Xander.Strategies(N));
 StrategyList.AddRange(Cas.Strategies(N));
 
-//StrategyList.RemoveAll(x => x.Name.ToLower().Contains("cheat"));
-//StrategyList.RemoveAll(x => x.Name.ToLower().Contains("exploit"));
+StrategyList.RemoveAll(x => x.Name.ToLower().Contains("cheat"));
+StrategyList.RemoveAll(x => x.Name.ToLower().Contains("exploit"));
+
+//StrategyList = new List<Strategy> { Bart.Strategies(N)[2], Bartu.Strategies(N)[2], Xander.Strategies(N)[0], Cas.Strategies(N)[2] };
 
 int listCount = StrategyList.Count;
 List<int> Wins = new List<int>(new int[listCount]);
@@ -39,8 +41,8 @@ for (int i = 0; i < listCount; i++)
         }
         Console.WriteLine($"Game Results -> {strategyA.Name}:{strategyA.MyCoins} - {strategyB.Name}:{strategyB.MyCoins}");
 
-        if (strategyA.MyCoins > strategyB.MyCoins) Wins[i]++;
-        if (strategyB.MyCoins > strategyA.MyCoins) Wins[j]++;
+        if (strategyA.MyCoins >= strategyB.MyCoins) Wins[i]++;
+        if (strategyB.MyCoins >= strategyA.MyCoins) Wins[j]++;
 
         strategyA.Reset();
         strategyB.Reset();
