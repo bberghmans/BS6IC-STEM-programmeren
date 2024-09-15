@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="startegyCas">
+      <HintPath>..\Libraries\startegyCas.dll</HintPath>
+    </Reference>
+    <Reference Include="Strategy">
+      <HintPath>..\Libraries\Strategy.dll</HintPath>
+    </Reference>
+    <Reference Include="StrategyBart">
+      <HintPath>..\Libraries\StrategyBart.dll</HintPath>
+    </Reference>
+    <Reference Include="StrategyBartu">
+      <HintPath>..\Libraries\StrategyBartu.dll</HintPath>
+    </Reference>
+    <Reference Include="StrategyXander">
+      <HintPath>..\Libraries\StrategyXander.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

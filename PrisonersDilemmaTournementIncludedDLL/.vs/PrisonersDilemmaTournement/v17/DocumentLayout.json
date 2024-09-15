@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournementIncludedDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|c:\\users\\bart\\documents\\beringenrepositories\\bs6ic-stem-programmeren\\prisonersdilemmatournementincludeddll\\prisonersdilemmatournement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|solutionrelative:prisonersdilemmatournement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|c:\\users\\bart\\documents\\beringenrepositories\\bs6ic-stem-programmeren\\prisonersdilemmatournementincludeddll\\prisonersdilemmatournement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D85A30-2B52-4CCA-ABC9-CF0C4A8B4FFA}|PrisonersDilemmaTournement\\PrisonersDilemmaTournement.csproj|solutionrelative:prisonersdilemmatournement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournementIncludedDLL\\PrisonersDilemmaTournement\\Program.cs",
+              "RelativeDocumentMoniker": "PrisonersDilemmaTournement\\Program.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournementIncludedDLL\\PrisonersDilemmaTournement\\Program.cs",
+              "RelativeToolTip": "PrisonersDilemmaTournement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:20:28.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournementIncludedDLL\\PrisonersDilemmaTournement\\Game.cs",
+              "RelativeDocumentMoniker": "PrisonersDilemmaTournement\\Game.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournementIncludedDLL\\PrisonersDilemmaTournement\\Game.cs",
+              "RelativeToolTip": "PrisonersDilemmaTournement\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:31:37.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

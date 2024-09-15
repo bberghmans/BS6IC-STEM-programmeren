@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.csproj",
+      "projectUniqueName": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.csproj",
+      "projectPath": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\Bart\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\obj\\",
+      "outputPath": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\PrisonersDilemmaTournement\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
