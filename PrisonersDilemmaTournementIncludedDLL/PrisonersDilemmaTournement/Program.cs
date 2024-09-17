@@ -10,7 +10,7 @@ StrategyList.AddRange(Cas.Strategies(N));
 StrategyList.RemoveAll(x => x.Name.ToLower().Contains("cheat"));
 StrategyList.RemoveAll(x => x.Name.ToLower().Contains("exploit"));
 
-//StrategyList = new List<Strategy> { Bart.Strategies(N)[2], Bartu.Strategies(N)[2], Xander.Strategies(N)[0], Cas.Strategies(N)[2] };
+StrategyList = new List<Strategy> { Bart.Strategies(N)[2], Bartu.Strategies(N)[2], Xander.Strategies(N)[0], Cas.Strategies(N)[2] };
 
 int listCount = StrategyList.Count;
 List<int> Wins = new List<int>(new int[listCount]);
