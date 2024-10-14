@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\Weerstandsnetwerken\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CC9F4B3-9271-4C3D-A065-23286200DE4E}|Weerstandsnetwerken\\Weerstandsnetwerken.csproj|c:\\users\\bart\\documents\\beringenrepositories\\bs6ic-stem-programmeren\\weerstandsnetwerken\\weerstandsnetwerken\\weerstand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC9F4B3-9271-4C3D-A065-23286200DE4E}|Weerstandsnetwerken\\Weerstandsnetwerken.csproj|solutionrelative:weerstandsnetwerken\\weerstand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CC9F4B3-9271-4C3D-A065-23286200DE4E}|Weerstandsnetwerken\\Weerstandsnetwerken.csproj|c:\\users\\bart\\documents\\beringenrepositories\\bs6ic-stem-programmeren\\weerstandsnetwerken\\weerstandsnetwerken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CC9F4B3-9271-4C3D-A065-23286200DE4E}|Weerstandsnetwerken\\Weerstandsnetwerken.csproj|solutionrelative:weerstandsnetwerken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Weerstand.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\Weerstandsnetwerken\\Weerstandsnetwerken\\Weerstand.cs",
+              "RelativeDocumentMoniker": "Weerstandsnetwerken\\Weerstand.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\Weerstandsnetwerken\\Weerstandsnetwerken\\Weerstand.cs",
+              "RelativeToolTip": "Weerstandsnetwerken\\Weerstand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:21:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\Weerstandsnetwerken\\Weerstandsnetwerken\\Program.cs",
               "RelativeDocumentMoniker": "Weerstandsnetwerken\\Program.cs",
               "ToolTip": "C:\\Users\\Bart\\Documents\\BeringenRepositories\\BS6IC-STEM-programmeren\\Weerstandsnetwerken\\Weerstandsnetwerken\\Program.cs",
               "RelativeToolTip": "Weerstandsnetwerken\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T10:20:37.566Z",
               "EditorCaption": ""
