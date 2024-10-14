@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\steamgui\\steamgui\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|solutionrelative:steamgui\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\steamgui\\steamgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|solutionrelative:steamgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|c:\\users\\bart\\documents\\github\\bs6ic-stem-programmeren\\steamgui\\steamgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1B05E3-E6C7-41B6-B5C2-B5262B027424}|SteamGUI\\SteamGUI.csproj|solutionrelative:steamgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SteamGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\MainWindow.xaml",
+              "RelativeToolTip": "SteamGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T08:33:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SteamGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SteamGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:45:36.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\Data.cs",
+              "RelativeDocumentMoniker": "SteamGUI\\Data.cs",
+              "ToolTip": "C:\\Users\\Bart\\Documents\\GitHub\\BS6IC-STEM-programmeren\\SteamGUI\\SteamGUI\\Data.cs",
+              "RelativeToolTip": "SteamGUI\\Data.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA6wD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:49:10.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
